@@ -1,4 +1,3 @@
-package company;
 
 /**
  * Created by Sania on 12.11.2016.
